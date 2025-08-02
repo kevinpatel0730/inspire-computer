@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/inspire-computer/static/css/main.34561502.css",
-    "main.js": "/inspire-computer/static/js/main.692be937.js",
+    "main.js": "/inspire-computer/static/js/main.5a61c729.js",
     "static/js/453.87f0783f.chunk.js": "/inspire-computer/static/js/453.87f0783f.chunk.js",
     "index.html": "/inspire-computer/index.html",
     "main.34561502.css.map": "/inspire-computer/static/css/main.34561502.css.map",
-    "main.692be937.js.map": "/inspire-computer/static/js/main.692be937.js.map",
+    "main.5a61c729.js.map": "/inspire-computer/static/js/main.5a61c729.js.map",
     "453.87f0783f.chunk.js.map": "/inspire-computer/static/js/453.87f0783f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.34561502.css",
-    "static/js/main.692be937.js"
+    "static/js/main.5a61c729.js"
   ]
 }
